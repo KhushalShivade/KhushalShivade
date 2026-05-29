@@ -12,10 +12,6 @@
   </a>
   <a href="mailto:khushalshivade28@gmail.com">
     <img src="https://raw.githubusercontent.com/KhushalShivade/KhushalShivade/main/email.svg" alt="Email" width="40" height="40" />
-  </a>
-  <a href="tel:+919373467399">
-    <img src="https://raw.githubusercontent.com/KhushalShivade/KhushalShivade/main/whatsapp.svg" alt="WhatsApp" width="40" height="40" />
-  </a>
 </p>
 
 ---
@@ -75,38 +71,4 @@ Here are some of the key platforms I have designed and engineered:
 | **Ethara**      | A feature-rich team task manager providing Kanban boards, calendar sprint planning, and role management.        | `React`, `Express.js`, `MongoDB` | [View Profile](https://github.com/KhushalShivade)                                    |
 | **SkillOrbit**  | An AI-empowered educational platform offering customized quizzes, progress monitoring, and interactive paths.   | `React`, `Node.js`, `Express.js` | [View Profile](https://github.com/KhushalShivade)                                    |
 
----
 
-## 📊 Git Activity & Dashboard
-
-I believe in continuous learning and building. Here is a live, real-time look into my development analytics:
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api?username=KhushalShivade&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Khushal's GitHub Stats" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhushalShivade&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Used" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br />
-      <img src="https://streak-stats.demolab.com/?user=KhushalShivade&theme=dark&hide_border=false" alt="GitHub Streak Stats" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Connect With Me
-
-Let's discuss full-stack development, AI initiatives, or open-source opportunities!
-
-- **Email**: [khushalshivade28@gmail.com](mailto:khushalshivade28@gmail.com)
-- **LinkedIn**: [linkedin.com/in/khushal-shivade-k28](https://linkedin.com/in/khushal-shivade-k28)
-- **Instagram**: [instagram.com/khushalshivade28](https://instagram.com/khushalshivade28)
-- **Facebook**: [facebook.com/profile.php?id=100055788362257](https://www.facebook.com/profile.php?id=100055788362257)
-- **Phone**: [+91 93734 67399](tel:+919373467399)
-- **Location**: Vadodara, Gujarat, India 🇮🇳
