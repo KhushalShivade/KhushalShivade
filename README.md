@@ -6,10 +6,6 @@
   </a>
   <a href="https://instagram.com/khushalshivade28" target="_blank">
     <img src="https://raw.githubusercontent.com/KhushalShivade/KhushalShivade/main/instagram.svg" alt="Instagram" width="40" height="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100055788362257" target="_blank">
-    <img src="https://raw.githubusercontent.com/KhushalShivade/KhushalShivade/main/facebook.svg" alt="Facebook" width="40" height="40" />
-  </a>
   <a href="mailto:khushalshivade28@gmail.com">
     <img src="https://raw.githubusercontent.com/KhushalShivade/KhushalShivade/main/email.svg" alt="Email" width="40" height="40" />
 </p>
