@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <!-- Soft Glow Filter -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <!-- Background Rounded Square -->
+  <rect width="48" height="48" rx="12" fill="#0B0E23" stroke="#1F2833" stroke-width="1.5" />
+  <!-- Centered Email Path -->
+  <g fill="#66FCF1" filter="url(#neon-glow)" transform="translate(12, 12)">
+    <path d="M0 4a2 2 0 0 1 2-2h20a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm22 1.066l-10 6.5-10-6.5V20h20V5.066zM3.464 4h17.072L12 9.53 3.464 4z"/>
+  </g>
+</svg>
